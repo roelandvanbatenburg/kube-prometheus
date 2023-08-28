@@ -1,5 +1,5 @@
 {
-  "alertmanager": "0.25.0",
+  "alertmanager": "0.26.0",
   "blackboxExporter": "0.24.0",
   "grafana": "9.5.3",
   "kubeStateMetrics": "2.9.2",
